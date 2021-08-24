@@ -2,7 +2,7 @@
 
 This is a minimalistic but real-life example of Instagram followers scraping using Node.js & MySQL
 
-This script uses Instagram Cloud Proxy https://rapidapi.com/restyler/api/instagram40 and does not require your Instagram login or password to scrape followers.
+This script uses Instagram Cloud Proxy https://rapidapi.com/restyler/api/instagram40 and **does not require your Instagram login or password to scrape followers**.
 
 
 # Installation
