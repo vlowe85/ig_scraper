@@ -71,6 +71,7 @@ let rapidGetFollowersByUserId = async (account, max_id) => {
 
     if (!accRes.res || accRes.res.status != 200 || !accRes.json) {
       let redirectLocation = null  
+      console.log('Fatal error happened:', accRes)
       if (accRes.res && accRes.res.status == 302) {
           redirectLocation = accRes.res.headers.get('location')
       }
