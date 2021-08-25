@@ -4,6 +4,8 @@ This is a minimalistic but real-life example of Instagram followers scraping usi
 
 This script uses Instagram Cloud Proxy https://rapidapi.com/restyler/api/instagram40 and **does not require your Instagram login or password to scrape followers**.
 
+# Demo video
+https://www.youtube.com/watch?v=tNkVXeXV1Tk
 
 # Installation
 
